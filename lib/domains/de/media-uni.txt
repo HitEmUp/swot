@@ -1,1 +1,2 @@
-Media University
+media-uni
+media-university
